@@ -1,0 +1,2 @@
+1.Definir las rutas
+2.Crear las vistas necesarias
